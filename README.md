@@ -39,6 +39,3 @@ Example:
 ```
 $ python scrapper.py www.monday.com 20
 ```
-
-## ERD
-![ERD](erd_trustpilot.png)
